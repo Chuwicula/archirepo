@@ -1,4 +1,5 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Contacto para una proxima reuniòn"
-    id="id-556c7ad96d1b47e0906af652f77d5fa7"/>
+    id="id-556c7ad96d1b47e0906af652f77d5fa7"
+    documentation="Despues de tener la propuesta se hace el contacto con la empresa para adquir la primera reuniòn con la empresa"/>

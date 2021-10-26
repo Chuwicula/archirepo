@@ -1,4 +1,5 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Seguimiento"
-    id="id-a614487016214d1e9c34981385c8c6b3"/>
+    id="id-a614487016214d1e9c34981385c8c6b3"
+    documentation="Despues de la reunion se va a tener muchos elementos y acuerdos. Posiblemente va haber otra serie de reuniones para seguir los acuerdos. "/>
