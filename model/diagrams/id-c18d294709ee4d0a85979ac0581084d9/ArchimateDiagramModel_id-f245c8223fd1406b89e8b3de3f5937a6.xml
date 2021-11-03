@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Default View"
+    name="proceso de venta"
     id="id-f245c8223fd1406b89e8b3de3f5937a6">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -96,9 +96,9 @@
       targetConnections="id-31956d3b8c6d451693fabc3c8194bb50">
     <bounds
         x="552"
-        y="312"
+        y="315"
         width="169"
-        height="43"/>
+        height="37"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
         href="BusinessService_id-cf8dc90f55074de0a13a4151ebc3d53f.xml#id-cf8dc90f55074de0a13a4151ebc3d53f"/>
@@ -129,9 +129,9 @@
           href="TriggeringRelationship_id-8fc7cf52a2d946b4ac13f704f92957a8.xml#id-8fc7cf52a2d946b4ac13f704f92957a8"/>
     </sourceConnections>
     <bounds
-        x="96"
-        y="312"
-        width="121"
+        x="108"
+        y="315"
+        width="145"
         height="37"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
@@ -178,9 +178,9 @@
           href="TriggeringRelationship_id-eef140beaeaf4fb79045491df8571f88.xml#id-eef140beaeaf4fb79045491df8571f88"/>
     </sourceConnections>
     <bounds
-        x="360"
+        x="324"
         y="216"
-        width="133"
+        width="169"
         height="61"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
